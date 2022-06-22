@@ -1,6 +1,6 @@
 # sanjana-test
 html css test
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -13,3 +13,12 @@ html css test
     <h2>Today my First computer Class</h2>
 </body>
 </html>
+ -->
+
+
+l><body>
+    <h1>Father of laptop Adam Osborn
+    </h1>
+    <h2>Father of computer Charles Babbage</h2>
+    <h3>Father of Internet Yint Cerf</h3>
+</body></html
